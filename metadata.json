@@ -1,0 +1,14 @@
+{
+  "name": "jorhett-systemstd",
+  "version": "0.1.0",
+  "author": "jorhett",
+  "summary": "Configures standard system features (users,groups,packages,etc) from Hiera data",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jorhett/puppet-systemstd",
+  "project_page": "https://github.com/jorhett/puppet-systemstd",
+  "issues_url": "https://github.com/jorhett/puppet-systemstd/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
